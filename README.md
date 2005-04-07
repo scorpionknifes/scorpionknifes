@@ -45,7 +45,7 @@
     </td>
 </tr>
 </table>
-</a >
+</a > 
   
 ---
 
@@ -58,5 +58,5 @@
 3. 🎉 Merged PR [#13](https://github.com/NZMSA/2021-Phase-2/pull/13) in [NZMSA/2021-Phase-2](https://github.com/NZMSA/2021-Phase-2)
 4. 💪 Opened PR [#13](https://github.com/NZMSA/2021-Phase-2/pull/13) in [NZMSA/2021-Phase-2](https://github.com/NZMSA/2021-Phase-2)
 5. 💪 Opened PR [#19](https://github.com/UoaWDCC/nzpmc_backend/pull/19) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-<!--END_SECTION:activity-->
-</details>
+   <!--END_SECTION:activity-->
+   </details>
