@@ -7,9 +7,15 @@
 - 👯 I’m looking to collaborate with other student developers
 - ⚡ Fun fact: I wrote this for fun
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpionknifes&layout=compact&theme=dracula&card_width=495)
 
+---
+
 ![ZHENK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&hide=stars&theme=dracula)
+
+---
 
 ### :zap: Recent Activity
 
