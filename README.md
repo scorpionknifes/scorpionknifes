@@ -9,7 +9,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpionknifes&layout=compact&theme=dracula&card_width=395)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpionknifes&layout=compact&theme=dracula&card_width=446)
 
 ---
 
