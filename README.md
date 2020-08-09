@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com//scorpionknifes/React-GraphQL/pull/4) in [scorpionknifes/React-GraphQL](https://github.com//scorpionknifes/React-GraphQL)
-2. 🎉 Merged PR [#3](https://github.com//scorpionknifes/react-code-test-example/pull/3) in [scorpionknifes/react-code-test-example](https://github.com//scorpionknifes/react-code-test-example)
-3. 🗣 Commented on [#1250](https://github.com//99designs/gqlgen/issues/1250) in [99designs/gqlgen](https://github.com//99designs/gqlgen)
-4. 🗣 Commented on [#846](https://github.com//99designs/gqlgen/issues/846) in [99designs/gqlgen](https://github.com//99designs/gqlgen)
-5. 💪 Opened PR [#1](https://github.com//scorpionknifes/gqlmanage/pull/1) in [scorpionknifes/gqlmanage](https://github.com//scorpionknifes/gqlmanage)
+1. 🎉 Merged PR [#18](https://github.com//Whatever-Hackathon/flashcard/pull/18) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
+2. 🎉 Merged PR [#17](https://github.com//Whatever-Hackathon/flashcard/pull/17) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
+3. 💪 Opened PR [#17](https://github.com//Whatever-Hackathon/flashcard/pull/17) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
+4. 🎉 Merged PR [#16](https://github.com//Whatever-Hackathon/flashcard/pull/16) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
+5. 💪 Opened PR [#16](https://github.com//Whatever-Hackathon/flashcard/pull/16) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
 <!--END_SECTION:activity-->
