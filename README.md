@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com//Whatever-Hackathon/flashcard/pull/18) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
-2. 🎉 Merged PR [#17](https://github.com//Whatever-Hackathon/flashcard/pull/17) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
-3. 💪 Opened PR [#17](https://github.com//Whatever-Hackathon/flashcard/pull/17) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
-4. 🎉 Merged PR [#16](https://github.com//Whatever-Hackathon/flashcard/pull/16) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
-5. 💪 Opened PR [#16](https://github.com//Whatever-Hackathon/flashcard/pull/16) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
+1. 🗣 Commented on [#3730](https://github.com//MichaIng/DietPi/issues/3730) in [MichaIng/DietPi](https://github.com//MichaIng/DietPi)
+2. 🗣 Commented on [#3730](https://github.com//MichaIng/DietPi/issues/3730) in [MichaIng/DietPi](https://github.com//MichaIng/DietPi)
+3. ❗️ Opened issue [#3730](https://github.com//MichaIng/DietPi/issues/3730) in [MichaIng/DietPi](https://github.com//MichaIng/DietPi)
+4. 🎉 Merged PR [#18](https://github.com//Whatever-Hackathon/flashcard/pull/18) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
+5. 🎉 Merged PR [#17](https://github.com//Whatever-Hackathon/flashcard/pull/17) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
 <!--END_SECTION:activity-->
