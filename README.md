@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3730](https://github.com//MichaIng/DietPi/issues/3730) in [MichaIng/DietPi](https://github.com//MichaIng/DietPi)
+1. 🗣 Commented on [#5630](https://github.com//apollographql/apollo-client/issues/5630) in [apollographql/apollo-client](https://github.com//apollographql/apollo-client)
 2. 🗣 Commented on [#3730](https://github.com//MichaIng/DietPi/issues/3730) in [MichaIng/DietPi](https://github.com//MichaIng/DietPi)
-3. ❗️ Opened issue [#3730](https://github.com//MichaIng/DietPi/issues/3730) in [MichaIng/DietPi](https://github.com//MichaIng/DietPi)
-4. 🎉 Merged PR [#18](https://github.com//Whatever-Hackathon/flashcard/pull/18) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
-5. 🎉 Merged PR [#17](https://github.com//Whatever-Hackathon/flashcard/pull/17) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
+3. 🗣 Commented on [#3730](https://github.com//MichaIng/DietPi/issues/3730) in [MichaIng/DietPi](https://github.com//MichaIng/DietPi)
+4. ❗️ Opened issue [#3730](https://github.com//MichaIng/DietPi/issues/3730) in [MichaIng/DietPi](https://github.com//MichaIng/DietPi)
+5. 🎉 Merged PR [#18](https://github.com//Whatever-Hackathon/flashcard/pull/18) in [Whatever-Hackathon/flashcard](https://github.com//Whatever-Hackathon/flashcard)
 <!--END_SECTION:activity-->
