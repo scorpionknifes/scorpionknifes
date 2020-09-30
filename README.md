@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/pion/dtls/issues/293) in [pion/dtls](https://github.com/pion/dtls)
-2. 🗣 Commented on [#281](https://github.com/pion/ice/issues/281) in [pion/ice](https://github.com/pion/ice)
-3. 🗣 Commented on [#91](https://github.com/pion/transport/issues/91) in [pion/transport](https://github.com/pion/transport)
-4. 🗣 Commented on [#91](https://github.com/pion/transport/issues/91) in [pion/transport](https://github.com/pion/transport)
-5. 🗣 Commented on [#72](https://github.com/pion/sdp/issues/72) in [pion/sdp](https://github.com/pion/sdp)
+1. 🗣 Commented on [#48](https://github.com/pion/.goassets/issues/48) in [pion/.goassets](https://github.com/pion/.goassets)
+2. 🗣 Commented on [#50](https://github.com/pion/stun/issues/50) in [pion/stun](https://github.com/pion/stun)
+3. ❗️ Opened issue [#1404](https://github.com/golangci/golangci-lint/issues/1404) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+4. 🗣 Commented on [#149](https://github.com/pion/sctp/issues/149) in [pion/sctp](https://github.com/pion/sctp)
+5. 🗣 Commented on [#149](https://github.com/pion/sctp/issues/149) in [pion/sctp](https://github.com/pion/sctp)
 <!--END_SECTION:activity-->
