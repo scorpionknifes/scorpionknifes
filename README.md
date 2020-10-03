@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1427](https://github.com/pion/webrtc/issues/1427) in [pion/webrtc](https://github.com/pion/webrtc)
-2. 🗣 Commented on [#48](https://github.com/pion/.goassets/issues/48) in [pion/.goassets](https://github.com/pion/.goassets)
-3. 🗣 Commented on [#50](https://github.com/pion/stun/issues/50) in [pion/stun](https://github.com/pion/stun)
-4. ❗️ Opened issue [#1404](https://github.com/golangci/golangci-lint/issues/1404) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-5. 🗣 Commented on [#149](https://github.com/pion/sctp/issues/149) in [pion/sctp](https://github.com/pion/sctp)
+1. 🗣 Commented on [#48](https://github.com/pion/.goassets/issues/48) in [pion/.goassets](https://github.com/pion/.goassets)
+2. 💪 Opened PR [#154](https://github.com/pion/sctp/pull/154) in [pion/sctp](https://github.com/pion/sctp)
+3. 🗣 Commented on [#1427](https://github.com/pion/webrtc/issues/1427) in [pion/webrtc](https://github.com/pion/webrtc)
+4. 🗣 Commented on [#48](https://github.com/pion/.goassets/issues/48) in [pion/.goassets](https://github.com/pion/.goassets)
+5. 🗣 Commented on [#50](https://github.com/pion/stun/issues/50) in [pion/stun](https://github.com/pion/stun)
 <!--END_SECTION:activity-->
