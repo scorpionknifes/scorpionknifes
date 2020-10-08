@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/scorpionknifes/go-vera-luup/pull/2) in [scorpionknifes/go-vera-luup](https://github.com/scorpionknifes/go-vera-luup)
-2. 💪 Opened PR [#49](https://github.com/pion/.goassets/pull/49) in [pion/.goassets](https://github.com/pion/.goassets)
-3. 🗣 Commented on [#48](https://github.com/pion/.goassets/issues/48) in [pion/.goassets](https://github.com/pion/.goassets)
-4. 💪 Opened PR [#154](https://github.com/pion/sctp/pull/154) in [pion/sctp](https://github.com/pion/sctp)
-5. 🗣 Commented on [#1427](https://github.com/pion/webrtc/issues/1427) in [pion/webrtc](https://github.com/pion/webrtc)
+1. 🗣 Commented on [#544](https://github.com/xerial/sqlite-jdbc/issues/544) in [xerial/sqlite-jdbc](https://github.com/xerial/sqlite-jdbc)
+2. 🎉 Merged PR [#2](https://github.com/scorpionknifes/go-vera-luup/pull/2) in [scorpionknifes/go-vera-luup](https://github.com/scorpionknifes/go-vera-luup)
+3. 💪 Opened PR [#49](https://github.com/pion/.goassets/pull/49) in [pion/.goassets](https://github.com/pion/.goassets)
+4. 🗣 Commented on [#48](https://github.com/pion/.goassets/issues/48) in [pion/.goassets](https://github.com/pion/.goassets)
+5. 💪 Opened PR [#154](https://github.com/pion/sctp/pull/154) in [pion/sctp](https://github.com/pion/sctp)
 <!--END_SECTION:activity-->
