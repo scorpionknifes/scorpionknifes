@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I wrote this for fun
 
 
-![ZHENK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&hide=stars&theme=dracula&include_all_commits=true)
+![ZHENK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&theme=dracula)
 
 
 ---
