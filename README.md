@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1428](https://github.com/pion/webrtc/issues/1428) in [pion/webrtc](https://github.com/pion/webrtc)
-2. 🗣 Commented on [#1428](https://github.com/pion/webrtc/issues/1428) in [pion/webrtc](https://github.com/pion/webrtc)
-3. 🗣 Commented on [#1279](https://github.com/pion/webrtc/issues/1279) in [pion/webrtc](https://github.com/pion/webrtc)
-4. 🗣 Commented on [#544](https://github.com/xerial/sqlite-jdbc/issues/544) in [xerial/sqlite-jdbc](https://github.com/xerial/sqlite-jdbc)
-5. 🎉 Merged PR [#2](https://github.com/scorpionknifes/go-vera-luup/pull/2) in [scorpionknifes/go-vera-luup](https://github.com/scorpionknifes/go-vera-luup)
+1. ❌ Closed PR [#311](https://github.com/pion/ice/pull/311) in [pion/ice](https://github.com/pion/ice)
+2. 🗣 Commented on [#271](https://github.com/pion/ice/issues/271) in [pion/ice](https://github.com/pion/ice)
+3. 💪 Opened PR [#311](https://github.com/pion/ice/pull/311) in [pion/ice](https://github.com/pion/ice)
+4. 🗣 Commented on [#1428](https://github.com/pion/webrtc/issues/1428) in [pion/webrtc](https://github.com/pion/webrtc)
+5. 🗣 Commented on [#1428](https://github.com/pion/webrtc/issues/1428) in [pion/webrtc](https://github.com/pion/webrtc)
 <!--END_SECTION:activity-->
