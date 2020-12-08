@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1584](https://github.com/pion/webrtc/pull/1584) in [pion/webrtc](https://github.com/pion/webrtc)
-2. 🗣 Commented on [#315](https://github.com/pion/ice/issues/315) in [pion/ice](https://github.com/pion/ice)
-3. 💪 Opened PR [#315](https://github.com/pion/ice/pull/315) in [pion/ice](https://github.com/pion/ice)
-4. 🎉 Merged PR [#1](https://github.com/scorpionknifes/webrtc/pull/1) in [scorpionknifes/webrtc](https://github.com/scorpionknifes/webrtc)
-5. 💪 Opened PR [#1](https://github.com/scorpionknifes/webrtc/pull/1) in [scorpionknifes/webrtc](https://github.com/scorpionknifes/webrtc)
+1. 🗣 Commented on [#315](https://github.com/pion/ice/issues/315) in [pion/ice](https://github.com/pion/ice)
+2. 💪 Opened PR [#1584](https://github.com/pion/webrtc/pull/1584) in [pion/webrtc](https://github.com/pion/webrtc)
+3. 🗣 Commented on [#315](https://github.com/pion/ice/issues/315) in [pion/ice](https://github.com/pion/ice)
+4. 💪 Opened PR [#315](https://github.com/pion/ice/pull/315) in [pion/ice](https://github.com/pion/ice)
+5. 🎉 Merged PR [#1](https://github.com/scorpionknifes/webrtc/pull/1) in [scorpionknifes/webrtc](https://github.com/scorpionknifes/webrtc)
 <!--END_SECTION:activity-->
