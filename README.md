@@ -1,8 +1,9 @@
 <a href="https://scorpionknifes.github.io/">![](./background.gif)</a>
 
-###<center> Hi there, I'm Cheng-Zhen 👋</center>
+<center> <h3>Hi there, I'm Cheng-Zhen 👋</h3></center>
+<center> <h2>I'm a Student, Developer, Engineer </h2></center>
 
-## <center> I'm a Student, Developer, Engineer </center>
+---
 
 🔭 I’m currently working on my personal projects
 🌱 I’m currently learning everything 🤣
