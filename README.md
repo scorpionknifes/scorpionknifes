@@ -5,11 +5,11 @@
 
 ---
 
-🔭 I’m currently working on my personal projects
-🌱 I’m currently learning everything 🤣
-📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chengzhenyang/)
-👯 I’m looking to collaborate with other student developers
-⚡ Fun fact: I wrote this for fun
+🔭 I’m currently working on my personal projects</br>
+🌱 I’m currently learning everything 🤣</br>
+📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chengzhenyang/)</br>
+👯 I’m looking to collaborate with other student developers</br>
+⚡ Fun fact: I wrote this for fun</br>
 
 ---
 
