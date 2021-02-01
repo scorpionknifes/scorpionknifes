@@ -32,3 +32,6 @@
 4. 🎉 Merged PR [#4](https://github.com/In-Touch-Hackathon/In-Touch-Docs/pull/4) in [In-Touch-Hackathon/In-Touch-Docs](https://github.com/In-Touch-Hackathon/In-Touch-Docs)
 5. 🎉 Merged PR [#4](https://github.com/In-Touch-Hackathon/In-Touch-Backend/pull/4) in [In-Touch-Hackathon/In-Touch-Backend](https://github.com/In-Touch-Hackathon/In-Touch-Backend)
 <!--END_SECTION:activity-->
+
+---
+![](https://komarev.com/ghpvc/?username=scorpionknifes&style=flat-square&color=b6b42d)
