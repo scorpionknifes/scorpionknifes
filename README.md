@@ -1,25 +1,26 @@
-### Hi there, I'm Cheng-Zhen 👋
+<a href="https://scorpionknifes.github.io/">![](./background.gif)</a>
 
-## I'm a Student, Developer, Engineer
-- 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chengzhenyang/)
-- 👯 I’m looking to collaborate with other student developers
-- ⚡ Fun fact: I wrote this for fun
+###<center> Hi there, I'm Cheng-Zhen 👋</center>
 
+## <center> I'm a Student, Developer, Engineer </center>
 
-![ZHENK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&theme=dracula)
-
+🔭 I’m currently working on my personal projects
+🌱 I’m currently learning everything 🤣
+📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chengzhenyang/)
+👯 I’m looking to collaborate with other student developers
+⚡ Fun fact: I wrote this for fun
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpionknifes&layout=compact&theme=dracula&card_width=446)
+<img src="https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&hide_border=true&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpionknifes&layout=compact&langs_count=10&hide_border=true&card_width=250&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" />
 
 ---
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#6](https://github.com/scorpionknifes/react-code-test-example/pull/6) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
 2. 🎉 Merged PR [#4](https://github.com/scorpionknifes/react-code-test-example/pull/4) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
 3. 🎉 Merged PR [#5](https://github.com/scorpionknifes/react-code-test-example/pull/5) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
