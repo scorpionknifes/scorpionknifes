@@ -26,11 +26,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/scorpionknifes/react-code-test-example/pull/6) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
-2. 🎉 Merged PR [#4](https://github.com/scorpionknifes/react-code-test-example/pull/4) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
-3. 🎉 Merged PR [#5](https://github.com/scorpionknifes/react-code-test-example/pull/5) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
-4. 🎉 Merged PR [#4](https://github.com/In-Touch-Hackathon/In-Touch-Docs/pull/4) in [In-Touch-Hackathon/In-Touch-Docs](https://github.com/In-Touch-Hackathon/In-Touch-Docs)
-5. 🎉 Merged PR [#4](https://github.com/In-Touch-Hackathon/In-Touch-Backend/pull/4) in [In-Touch-Hackathon/In-Touch-Backend](https://github.com/In-Touch-Hackathon/In-Touch-Backend)
+1. 💪 Opened PR [#14](https://github.com/artalar/stylerun/pull/14) in [artalar/stylerun](https://github.com/artalar/stylerun)
+2. 💪 Opened PR [#12](https://github.com/artalar/stylerun/pull/12) in [artalar/stylerun](https://github.com/artalar/stylerun)
+3. 🎉 Merged PR [#6](https://github.com/scorpionknifes/react-code-test-example/pull/6) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
+4. 🎉 Merged PR [#4](https://github.com/scorpionknifes/react-code-test-example/pull/4) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
+5. 🎉 Merged PR [#5](https://github.com/scorpionknifes/react-code-test-example/pull/5) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
 <!--END_SECTION:activity-->
 
 ---
