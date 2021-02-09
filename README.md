@@ -26,11 +26,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#14](https://github.com/artalar/stylerun/pull/14) in [artalar/stylerun](https://github.com/artalar/stylerun)
-2. 💪 Opened PR [#12](https://github.com/artalar/stylerun/pull/12) in [artalar/stylerun](https://github.com/artalar/stylerun)
-3. 🎉 Merged PR [#6](https://github.com/scorpionknifes/react-code-test-example/pull/6) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
-4. 🎉 Merged PR [#4](https://github.com/scorpionknifes/react-code-test-example/pull/4) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
-5. 🎉 Merged PR [#5](https://github.com/scorpionknifes/react-code-test-example/pull/5) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
+1. ❗️ Opened issue [#17](https://github.com/artalar/stylerun/issues/17) in [artalar/stylerun](https://github.com/artalar/stylerun)
+2. 💪 Opened PR [#16](https://github.com/artalar/stylerun/pull/16) in [artalar/stylerun](https://github.com/artalar/stylerun)
+3. 💪 Opened PR [#1](https://github.com/scorpionknifes/stylerun/pull/1) in [scorpionknifes/stylerun](https://github.com/scorpionknifes/stylerun)
+4. 🗣 Commented on [#12](https://github.com/artalar/stylerun/issues/12) in [artalar/stylerun](https://github.com/artalar/stylerun)
+5. 💪 Opened PR [#14](https://github.com/artalar/stylerun/pull/14) in [artalar/stylerun](https://github.com/artalar/stylerun)
 <!--END_SECTION:activity-->
 
 ---
