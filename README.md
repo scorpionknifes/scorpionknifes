@@ -26,11 +26,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#17](https://github.com/artalar/stylerun/issues/17) in [artalar/stylerun](https://github.com/artalar/stylerun)
-2. 💪 Opened PR [#16](https://github.com/artalar/stylerun/pull/16) in [artalar/stylerun](https://github.com/artalar/stylerun)
-3. 💪 Opened PR [#1](https://github.com/scorpionknifes/stylerun/pull/1) in [scorpionknifes/stylerun](https://github.com/scorpionknifes/stylerun)
-4. 🗣 Commented on [#12](https://github.com/artalar/stylerun/issues/12) in [artalar/stylerun](https://github.com/artalar/stylerun)
-5. 💪 Opened PR [#14](https://github.com/artalar/stylerun/pull/14) in [artalar/stylerun](https://github.com/artalar/stylerun)
+1. ❌ Closed PR [#1](https://github.com/scorpionknifes/stylerun/pull/1) in [scorpionknifes/stylerun](https://github.com/scorpionknifes/stylerun)
+2. 🗣 Commented on [#40](https://github.com/jeremydurham/persist-js/issues/40) in [jeremydurham/persist-js](https://github.com/jeremydurham/persist-js)
+3. 🗣 Commented on [#40](https://github.com/jeremydurham/persist-js/issues/40) in [jeremydurham/persist-js](https://github.com/jeremydurham/persist-js)
+4. ❗️ Opened issue [#17](https://github.com/artalar/stylerun/issues/17) in [artalar/stylerun](https://github.com/artalar/stylerun)
+5. 💪 Opened PR [#16](https://github.com/artalar/stylerun/pull/16) in [artalar/stylerun](https://github.com/artalar/stylerun)
 <!--END_SECTION:activity-->
 
 ---
