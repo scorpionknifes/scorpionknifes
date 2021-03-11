@@ -26,11 +26,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#7](https://github.com/OnFinality-io/onf-cli/issues/7) in [OnFinality-io/onf-cli](https://github.com/OnFinality-io/onf-cli)
-2. ❌ Closed PR [#1](https://github.com/scorpionknifes/stylerun/pull/1) in [scorpionknifes/stylerun](https://github.com/scorpionknifes/stylerun)
-3. 🗣 Commented on [#40](https://github.com/jeremydurham/persist-js/issues/40) in [jeremydurham/persist-js](https://github.com/jeremydurham/persist-js)
-4. 🗣 Commented on [#40](https://github.com/jeremydurham/persist-js/issues/40) in [jeremydurham/persist-js](https://github.com/jeremydurham/persist-js)
-5. ❗️ Opened issue [#17](https://github.com/artalar/stylerun/issues/17) in [artalar/stylerun](https://github.com/artalar/stylerun)
+1. 🎉 Merged PR [#7](https://github.com/scorpionknifes/react-code-test-example/pull/7) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
+2. 🎉 Merged PR [#7](https://github.com/scorpionknifes/React-GraphQL/pull/7) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
+3. 🗣 Commented on [#7](https://github.com/scorpionknifes/React-GraphQL/issues/7) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
+4. 🗣 Commented on [#7](https://github.com/scorpionknifes/react-code-test-example/issues/7) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
+5. 🎉 Merged PR [#3](https://github.com/In-Touch-Hackathon/In-Touch-Docs/pull/3) in [In-Touch-Hackathon/In-Touch-Docs](https://github.com/In-Touch-Hackathon/In-Touch-Docs)
 <!--END_SECTION:activity-->
 
 ---
