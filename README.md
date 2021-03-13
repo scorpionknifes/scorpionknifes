@@ -13,16 +13,17 @@
 
 ---
 <a href="https://profile-summary-for-github.com/user/scorpionknifes">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=scorpionknifes&no-frame=true&no-bg=true&theme=gruvbox&margin-w=10"width="98%"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=scorpionknifes&no-frame=true&no-bg=true&theme=gruvbox&margin-w=10"width="100%"/>
 </a>
 <br>
-<a href="https://profile-summary-for-github.com/user/scorpionknifes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&hide_border=true&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" width="62.2%"/>
-</a>
-<a href="https://profile-summary-for-github.com/user/scorpionknifes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpionknifes&layout=compact&langs_count=10&hide_border=true&card_width=250&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" width="37.2%"/>
-</a>
-
+<p align="center">
+  <a href="https://profile-summary-for-github.com/user/scorpionknifes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&hide_border=true&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" width="62%"/>
+  </a>
+  <a href="https://profile-summary-for-github.com/user/scorpionknifes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpionknifes&layout=compact&langs_count=10&hide_border=true&card_width=250&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" width="37%"/>
+  </a>
+<p>
 ---
 
 ### :zap: Recent Activity
