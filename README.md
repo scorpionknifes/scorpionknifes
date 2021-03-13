@@ -12,6 +12,7 @@
 ⚡ Fun fact: I wrote this for fun</br>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=scorpionknifes&no-frame=true&no-bg=true&theme=gruvbox&margin-w=28)](https://profile-summary-for-github.com/user/scorpionknifes)
 
 <a href="https://profile-summary-for-github.com/user/scorpionknifes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&hide_border=true&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" />
