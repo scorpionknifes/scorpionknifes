@@ -14,13 +14,19 @@
 ---
 
 <a href="https://profile-summary-for-github.com/user/scorpionknifes">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=scorpionknifes&no-frame=true&no-bg=true&theme=gruvbox&margin-w=10"width="100%"/>
-  <br>
-  <p align="center" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&hide_border=true&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" width="61%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpionknifes&layout=compact&langs_count=10&hide_border=true&card_width=250&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" width="37%" />
-  <p>
-</a>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=scorpionknifes&no-frame=true&no-bg=true&theme=gruvbox&margin-w=10" width="100%" />
+<table align="center">
+<tr>
+    <td align="center" width="69%">
+            <img src="https://github-readme-stats.vercel.app/api?username=scorpionknifes&show_icons=true&count_private=true&hide_border=true&line_height=28&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" width="100%" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=scorpionknifes&theme=dark&background=160e01&hide_border=true&ring=c6c42f&fire=c6c42f&currStreakLabel=c6c42f&sideLabels=c6c42f" width="100%" />
+    </td>
+    <td align="center" width="31%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpionknifes&layout=compact&langs_count=10&hide_border=true&card_width=250&line_height=28&layout=compact&title_color=c6c42f&bg_color=160e01&icon_color=b6b42d&text_color=fff" width="100%" />
+    </td>
+</tr>
+</table>
+</a >
   
 ---
 
