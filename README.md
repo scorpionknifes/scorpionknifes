@@ -35,11 +35,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/scorpionknifes/react-code-test-example/pull/7) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
-2. 🎉 Merged PR [#7](https://github.com/scorpionknifes/React-GraphQL/pull/7) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
-3. 🗣 Commented on [#7](https://github.com/scorpionknifes/React-GraphQL/issues/7) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
-4. 🗣 Commented on [#7](https://github.com/scorpionknifes/react-code-test-example/issues/7) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
-5. 🎉 Merged PR [#3](https://github.com/In-Touch-Hackathon/In-Touch-Docs/pull/3) in [In-Touch-Hackathon/In-Touch-Docs](https://github.com/In-Touch-Hackathon/In-Touch-Docs)
+1. 🎉 Merged PR [#1](https://github.com/scorpionknifes/smtp-to-ftp-server/pull/1) in [scorpionknifes/smtp-to-ftp-server](https://github.com/scorpionknifes/smtp-to-ftp-server)
+2. 💪 Opened PR [#1](https://github.com/scorpionknifes/smtp-to-ftp-server/pull/1) in [scorpionknifes/smtp-to-ftp-server](https://github.com/scorpionknifes/smtp-to-ftp-server)
+3. 🎉 Merged PR [#7](https://github.com/scorpionknifes/react-code-test-example/pull/7) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
+4. 🎉 Merged PR [#7](https://github.com/scorpionknifes/React-GraphQL/pull/7) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
+5. 🗣 Commented on [#7](https://github.com/scorpionknifes/React-GraphQL/issues/7) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
 <!--END_SECTION:activity-->
 
 ---
