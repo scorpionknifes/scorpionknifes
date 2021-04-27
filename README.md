@@ -35,11 +35,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/UoaWDCC/nzpmc_backend/pull/2) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-2. 🎉 Merged PR [#1](https://github.com/UoaWDCC/nzpmc_backend/pull/1) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-3. 🎉 Merged PR [#5](https://github.com/scorpionknifes/React-GraphQL/pull/5) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
-4. 🎉 Merged PR [#8](https://github.com/scorpionknifes/React-GraphQL/pull/8) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
-5. 🎉 Merged PR [#8](https://github.com/scorpionknifes/react-code-test-example/pull/8) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
+1. 🎉 Merged PR [#2](https://github.com/UoaWDCC/nzpmc_backend/pull/2) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+2. 💪 Opened PR [#2](https://github.com/UoaWDCC/nzpmc_backend/pull/2) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+3. 🎉 Merged PR [#1](https://github.com/UoaWDCC/nzpmc_backend/pull/1) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+4. 🎉 Merged PR [#5](https://github.com/scorpionknifes/React-GraphQL/pull/5) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
+5. 🎉 Merged PR [#8](https://github.com/scorpionknifes/React-GraphQL/pull/8) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
 <!--END_SECTION:activity-->
 
 ---
