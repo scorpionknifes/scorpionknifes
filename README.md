@@ -35,11 +35,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/devsuoa/Web-Development-Workshop-2021/issues/2) in [devsuoa/Web-Development-Workshop-2021](https://github.com/devsuoa/Web-Development-Workshop-2021)
-2. 💪 Opened PR [#2](https://github.com/devsuoa/Web-Development-Workshop-2021/pull/2) in [devsuoa/Web-Development-Workshop-2021](https://github.com/devsuoa/Web-Development-Workshop-2021)
-3. 💪 Opened PR [#1](https://github.com/devsuoa/Web-Development-Workshop-2021/pull/1) in [devsuoa/Web-Development-Workshop-2021](https://github.com/devsuoa/Web-Development-Workshop-2021)
-4. 🎉 Merged PR [#2](https://github.com/UoaWDCC/nzpmc_backend/pull/2) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-5. 💪 Opened PR [#2](https://github.com/UoaWDCC/nzpmc_backend/pull/2) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+1. ❌ Closed PR [#2](https://github.com/scorpionknifes/gogrep/pull/2) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
+2. 💪 Opened PR [#2](https://github.com/scorpionknifes/gogrep/pull/2) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
+3. 🎉 Merged PR [#1](https://github.com/scorpionknifes/gogrep/pull/1) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
+4. 💪 Opened PR [#1](https://github.com/scorpionknifes/gogrep/pull/1) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
+5. 🗣 Commented on [#2](https://github.com/devsuoa/Web-Development-Workshop-2021/issues/2) in [devsuoa/Web-Development-Workshop-2021](https://github.com/devsuoa/Web-Development-Workshop-2021)
 <!--END_SECTION:activity-->
 
 ---
