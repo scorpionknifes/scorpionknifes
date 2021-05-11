@@ -35,11 +35,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#7](https://github.com/NZMSA/2021-introduction-to-general-software-development/issues/7) in [NZMSA/2021-introduction-to-general-software-development](https://github.com/NZMSA/2021-introduction-to-general-software-development)
-2. ❌ Closed PR [#2](https://github.com/scorpionknifes/gogrep/pull/2) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
-3. 💪 Opened PR [#2](https://github.com/scorpionknifes/gogrep/pull/2) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
-4. 🎉 Merged PR [#1](https://github.com/scorpionknifes/gogrep/pull/1) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
-5. 💪 Opened PR [#1](https://github.com/scorpionknifes/gogrep/pull/1) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
+1. 🗣 Commented on [#8](https://github.com/UoaWDCC/nzpmc_frontend/issues/8) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
+2. 💪 Opened PR [#9](https://github.com/UoaWDCC/nzpmc_frontend/pull/9) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
+3. ❗️ Closed issue [#7](https://github.com/NZMSA/2021-introduction-to-general-software-development/issues/7) in [NZMSA/2021-introduction-to-general-software-development](https://github.com/NZMSA/2021-introduction-to-general-software-development)
+4. ❌ Closed PR [#2](https://github.com/scorpionknifes/gogrep/pull/2) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
+5. 💪 Opened PR [#2](https://github.com/scorpionknifes/gogrep/pull/2) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
 <!--END_SECTION:activity-->
 
 ---
