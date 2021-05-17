@@ -35,11 +35,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/UoaWDCC/nzpmc_frontend/issues/8) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
-2. 💪 Opened PR [#9](https://github.com/UoaWDCC/nzpmc_frontend/pull/9) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
-3. ❗️ Closed issue [#7](https://github.com/NZMSA/2021-introduction-to-general-software-development/issues/7) in [NZMSA/2021-introduction-to-general-software-development](https://github.com/NZMSA/2021-introduction-to-general-software-development)
-4. ❌ Closed PR [#2](https://github.com/scorpionknifes/gogrep/pull/2) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
-5. 💪 Opened PR [#2](https://github.com/scorpionknifes/gogrep/pull/2) in [scorpionknifes/gogrep](https://github.com/scorpionknifes/gogrep)
+1. 🎉 Merged PR [#9](https://github.com/scorpionknifes/react-code-test-example/pull/9) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
+2. 🎉 Merged PR [#3](https://github.com/scorpionknifes/Homework-Cal-Discord-Bot/pull/3) in [scorpionknifes/Homework-Cal-Discord-Bot](https://github.com/scorpionknifes/Homework-Cal-Discord-Bot)
+3. 🎉 Merged PR [#3](https://github.com/scorpionknifes/Announcement-RSS-Discord-Bot/pull/3) in [scorpionknifes/Announcement-RSS-Discord-Bot](https://github.com/scorpionknifes/Announcement-RSS-Discord-Bot)
+4. 🎉 Merged PR [#10](https://github.com/scorpionknifes/react-code-test-example/pull/10) in [scorpionknifes/react-code-test-example](https://github.com/scorpionknifes/react-code-test-example)
+5. 🎉 Merged PR [#9](https://github.com/scorpionknifes/React-GraphQL/pull/9) in [scorpionknifes/React-GraphQL](https://github.com/scorpionknifes/React-GraphQL)
 <!--END_SECTION:activity-->
 
 ---
