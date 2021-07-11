@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#17](https://github.com/UoaWDCC/nzpmc_backend/issues/17) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-2. 🎉 Merged PR [#15](https://github.com/UoaWDCC/nzpmc_backend/pull/15) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-3. 🗣 Commented on [#21](https://github.com/UoaWDCC/nzpmc_frontend/issues/21) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
-4. 💪 Opened PR [#11](https://github.com/UoaWDCC/nzpmc_backend/pull/11) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-5. 💪 Opened PR [#5](https://github.com/UoaWDCC/nzpmc_backend/pull/5) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+1. 💪 Opened PR [#19](https://github.com/UoaWDCC/nzpmc_backend/pull/19) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+2. 🗣 Commented on [#17](https://github.com/UoaWDCC/nzpmc_backend/issues/17) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+3. 🎉 Merged PR [#15](https://github.com/UoaWDCC/nzpmc_backend/pull/15) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+4. 🗣 Commented on [#21](https://github.com/UoaWDCC/nzpmc_frontend/issues/21) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
+5. 💪 Opened PR [#11](https://github.com/UoaWDCC/nzpmc_backend/pull/11) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
 <!--END_SECTION:activity-->
 </details>
