@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/scorpionknifes/go-pcre/issues/1) in [scorpionknifes/go-pcre](https://github.com/scorpionknifes/go-pcre)
-2. 🎉 Merged PR [#4](https://github.com/scorpionknifes/go-pcre/pull/4) in [scorpionknifes/go-pcre](https://github.com/scorpionknifes/go-pcre)
-3. 💪 Opened PR [#4](https://github.com/scorpionknifes/go-pcre/pull/4) in [scorpionknifes/go-pcre](https://github.com/scorpionknifes/go-pcre)
-4. 🎉 Merged PR [#3](https://github.com/scorpionknifes/go-pcre/pull/3) in [scorpionknifes/go-pcre](https://github.com/scorpionknifes/go-pcre)
-5. 💪 Opened PR [#3](https://github.com/scorpionknifes/go-pcre/pull/3) in [scorpionknifes/go-pcre](https://github.com/scorpionknifes/go-pcre)
+1. 💪 Opened PR [#26](https://github.com/UoaWDCC/nzpmc_backend/pull/26) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+2. 💪 Opened PR [#25](https://github.com/UoaWDCC/nzpmc_backend/pull/25) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+3. 💪 Opened PR [#3](https://github.com/Rrjgo/24PR-GraphQL/pull/3) in [Rrjgo/24PR-GraphQL](https://github.com/Rrjgo/24PR-GraphQL)
+4. ❗️ Closed issue [#1](https://github.com/scorpionknifes/go-pcre/issues/1) in [scorpionknifes/go-pcre](https://github.com/scorpionknifes/go-pcre)
+5. 🎉 Merged PR [#4](https://github.com/scorpionknifes/go-pcre/pull/4) in [scorpionknifes/go-pcre](https://github.com/scorpionknifes/go-pcre)
    <!--END_SECTION:activity-->
    </details>
