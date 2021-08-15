@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#35](https://github.com/UoaWDCC/nzpmc_frontend/issues/35) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
-2. 💪 Opened PR [#36](https://github.com/UoaWDCC/nzpmc_backend/pull/36) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-3. 🎉 Merged PR [#35](https://github.com/UoaWDCC/nzpmc_backend/pull/35) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-4. 💪 Opened PR [#34](https://github.com/UoaWDCC/nzpmc_backend/pull/34) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-5. 💪 Opened PR [#33](https://github.com/UoaWDCC/nzpmc_backend/pull/33) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+1. 🗣 Commented on [#37](https://github.com/UoaWDCC/nzpmc_frontend/issues/37) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
+2. ❗️ Opened issue [#1135](https://github.com/arnog/mathlive/issues/1135) in [arnog/mathlive](https://github.com/arnog/mathlive)
+3. 🎉 Merged PR [#35](https://github.com/UoaWDCC/nzpmc_frontend/pull/35) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
+4. 🗣 Commented on [#35](https://github.com/UoaWDCC/nzpmc_frontend/issues/35) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
+5. 💪 Opened PR [#36](https://github.com/UoaWDCC/nzpmc_backend/pull/36) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
    <!--END_SECTION:activity-->
    </details>
