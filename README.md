@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#149](https://github.com/UoaWDCC/nzpmc_backend/issues/149) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-2. 🎉 Merged PR [#148](https://github.com/UoaWDCC/nzpmc_backend/pull/148) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-3. 🎉 Merged PR [#19](https://github.com/AndrewsAngularTeam/PanoptoPandas/pull/19) in [AndrewsAngularTeam/PanoptoPandas](https://github.com/AndrewsAngularTeam/PanoptoPandas)
-4. 💪 Opened PR [#19](https://github.com/AndrewsAngularTeam/PanoptoPandas/pull/19) in [AndrewsAngularTeam/PanoptoPandas](https://github.com/AndrewsAngularTeam/PanoptoPandas)
-5. 💪 Opened PR [#145](https://github.com/UoaWDCC/nzpmc_backend/pull/145) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+1. 🎉 Merged PR [#149](https://github.com/UoaWDCC/nzpmc_backend/pull/149) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+2. 🗣 Commented on [#149](https://github.com/UoaWDCC/nzpmc_backend/issues/149) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+3. 🎉 Merged PR [#148](https://github.com/UoaWDCC/nzpmc_backend/pull/148) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+4. 🎉 Merged PR [#19](https://github.com/AndrewsAngularTeam/PanoptoPandas/pull/19) in [AndrewsAngularTeam/PanoptoPandas](https://github.com/AndrewsAngularTeam/PanoptoPandas)
+5. 💪 Opened PR [#19](https://github.com/AndrewsAngularTeam/PanoptoPandas/pull/19) in [AndrewsAngularTeam/PanoptoPandas](https://github.com/AndrewsAngularTeam/PanoptoPandas)
    <!--END_SECTION:activity-->
    </details>
