@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#154](https://github.com/UoaWDCC/nzpmc_backend/pull/154) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-2. 🗣 Commented on [#100](https://github.com/hhu-stups/prob-issues/issues/100) in [hhu-stups/prob-issues](https://github.com/hhu-stups/prob-issues)
-3. 🗣 Commented on [#153](https://github.com/UoaWDCC/nzpmc_backend/issues/153) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-4. 🎉 Merged PR [#145](https://github.com/UoaWDCC/nzpmc_backend/pull/145) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
-5. 🎉 Merged PR [#150](https://github.com/UoaWDCC/nzpmc_backend/pull/150) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+1. 🎉 Merged PR [#75](https://github.com/UoaWDCC/nzpmc_frontend/pull/75) in [UoaWDCC/nzpmc_frontend](https://github.com/UoaWDCC/nzpmc_frontend)
+2. 🎉 Merged PR [#159](https://github.com/UoaWDCC/nzpmc_backend/pull/159) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+3. 🎉 Merged PR [#154](https://github.com/UoaWDCC/nzpmc_backend/pull/154) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
+4. 🗣 Commented on [#100](https://github.com/hhu-stups/prob-issues/issues/100) in [hhu-stups/prob-issues](https://github.com/hhu-stups/prob-issues)
+5. 🗣 Commented on [#153](https://github.com/UoaWDCC/nzpmc_backend/issues/153) in [UoaWDCC/nzpmc_backend](https://github.com/UoaWDCC/nzpmc_backend)
    <!--END_SECTION:activity-->
    </details>
